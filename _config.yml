@@ -129,7 +129,7 @@ comments:
   gitalk:
     clientID    : 3db9975307f2d9103211
     clientSecret: bc3ea8b706a2b10d78dde4f3131e8b2e63f94850
-    repository  : blog
+    repository  : jonluo94.github.io
     owner       : jonluo94
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
        - jonluo94

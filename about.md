@@ -1,18 +1,7 @@
 ---
 layout: article
-titles:
-  en      : &EN       About Me
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于我
-  zh      : *ZH_HANS
-  zh-CN   : *ZH_HANS
-  zh-SG   : *ZH_HANS
 aside:
   toc: true
-key: page-about
 ---
 
 ## 我

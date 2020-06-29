@@ -1,5 +1,6 @@
 ---
 layout: article
+key: about
 aside:
   toc: true
 ---

@@ -6,6 +6,9 @@ aside:
   toc: true
 ---
 
+> When your abilities can't support your ambitions, stay calm and learn.    
+> Talk is cheap，show me the code.  
+
 ## 我
 * 多年区块链开发经验，熟悉公链，联盟链，私链的主流框架技术  
 * 熟悉分布式微服务架构设计，高并发，高性能，高扩展技术架构  
